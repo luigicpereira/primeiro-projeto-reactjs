@@ -34,6 +34,9 @@
 			2,
 			"tab"
 		],
+		"react/jsx-indent-props": [
+			0
+		],
 		"react-hooks/rules-of-hooks": "error",
 		"react-hooks/exhaustive-deps": "warn",
 		"react/jsx-filename-extension": [
